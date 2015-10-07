@@ -1,0 +1,14 @@
+{
+    "event": "get_weather",
+    "url": "https://api.forecast.io/forecast/123412341234/33.009,-116.974",
+    "requestType": "GET",
+    "headers": null,
+    "query": {
+        "units": "us"
+        },
+    "responseTemplate": "{{currently.temperature}}~{{daily.data.0.temperatureMax}}~{{daily.data.0.temperatureMin}}~{{currently.icon}}~{{daily.data.0.sunriseTime}}~{{daily.data.0.sunsetTime}}",
+    "json": null,
+    "auth": null,
+    "mydevices": true,
+    "noDefaults": true
+}
