@@ -4,7 +4,7 @@ Particle Weather Widget
 Uses the [Particle Photon][1] plugged into a [Sparkfun Micro OLED Shield][2] as a simple weather widget.
 See my [writeup on Medium][5].
 
-[![demo](https://i.ytimg.com/vi_webp/Uq2O8_fVqQE/0.webp)](https://youtu.be/Uq2O8_fVqQE "Particle Weather Widget")
+[![demo](particle-weather-widget.jpg)](https://youtu.be/Uq2O8_fVqQE "Particle Weather Widget")
 
 Setup
 -----
